@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 hello baby!  oigeda
 hello baby! ijfoof
-=======
 hello baby!
 hello baby! 45456
->>>>>>> hot-fix
 hello baby!
 hello baby!
 hello baby!
